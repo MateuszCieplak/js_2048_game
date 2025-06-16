@@ -245,6 +245,7 @@ button.addEventListener('click', () => {
     button.classList.remove('restart');
     button.classList.add('start');
     button.textContent = 'Start';
+    startMessage.classList.remove('hidden');
   }
 
   score.textContent = game.getScore() || 0;
