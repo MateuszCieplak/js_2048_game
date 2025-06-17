@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+[Demo Link](https://mateuszcieplak.github.io/js_2048_game/)
+
 This project is a browser-based implementation of the popular puzzle game **2048**, where the main goal is to slide and merge tiles with numbers to reach the **2048** tile. The game is built entirely in **vanilla JavaScript**, without external frameworks, making it a great example of pure logic implementation and DOM manipulation.
 
 The game logic is encapsulated in a `Game` class that handles:
