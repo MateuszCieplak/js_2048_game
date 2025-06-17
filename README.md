@@ -41,18 +41,19 @@ The game logic is encapsulated in a `Game` class that handles:
 
 2. **Install dependencies**
 
-Make sure you have Node.js and npm installed.
+  Make sure you have Node.js and npm installed.
 
    ```bash
      npm install
    ```
+
 3. **Run tests**
-To verify that the game logic works correctly:
+  To verify that the game logic works correctly:
 
    ```bash
      npm run test
    ```
-Or run quick tests without linting:
+  Or run quick tests without linting:
 
    ```bash
      npm run test:only -- -n
@@ -60,5 +61,4 @@ Or run quick tests without linting:
 
 4. **Launch the game in the browser**
    
-Open the src/index.html file in your browser manually,
-or use a local development server (e.g., Live Server extension in VS Code).
+  Open the src/index.html file in your browser manually, or use a local development server (e.g., Live Server extension in VS Code).
